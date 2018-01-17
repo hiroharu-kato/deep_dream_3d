@@ -23,6 +23,9 @@ python setup.py install --user
 bash ./examples/run.sh
 ```
 
+![](https://raw.githubusercontent.com/hiroharu-kato/neural_renderer/master/examples/data/example3_ref.png) ![](https://raw.githubusercontent.com/hiroharu-kato/neural_renderer/master/examples/data/example3_result.gif)
+
+
 
 ## Citation
 
