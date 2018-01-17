@@ -6,7 +6,7 @@ Related repositories:
 * [Neural Renderer](https://github.com/hiroharu-kato/neural_renderer)
     * single-image 3D mesh reconstruction
     * 2D-to-3D style transfer
-    * [3D DeepDream](https://github.com/hiroharu-kato/deep_dream_3d)
+    * 3D DeepDream (this repository)
 
 ## Installation
 ```
