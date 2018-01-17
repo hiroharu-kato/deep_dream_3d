@@ -2,6 +2,12 @@
 
 This is the code for 3D DeepDream in the paper [Neural 3D Mesh Renderer](http://hiroharu-kato.com/projects_en/neural_renderer.html) by Hiroharu Kato, Yoshitaka Ushiku, and Tatsuya Harada.
 
+Related repositories:
+* [Neural Renderer](https://github.com/hiroharu-kato/neural_renderer)
+    * single-image 3D mesh reconstruction
+    * 2D-to-3D style transfer
+    * [3D DeepDream](https://github.com/hiroharu-kato/deep_dream_3d)
+
 ## Installation
 ```
 # install neural_renderer
