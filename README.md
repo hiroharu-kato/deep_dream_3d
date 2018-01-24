@@ -4,9 +4,10 @@ This is the code for 3D DeepDream in the paper [Neural 3D Mesh Renderer](http://
 
 Related repositories:
 * [Neural Renderer](https://github.com/hiroharu-kato/neural_renderer)
-    * single-image 3D mesh reconstruction
-    * 2D-to-3D style transfer
+    * Single-image 3D mesh reconstruction
+    * [2D-to-3D style transfer](https://github.com/hiroharu-kato/style_transfer_3d)
     * 3D DeepDream (this repository)
+
 
 ## Installation
 ```
@@ -19,7 +20,6 @@ python setup.py install --user
 
 ## Run example
 ```
-
 bash ./examples/run.sh
 ```
 
